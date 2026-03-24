@@ -1,0 +1,20 @@
+# Arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# IDE (VS Code / IntelliJ)
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# Variáveis de ambiente
+.env
+
+# Pasta build
+/bin/
+/out/
+/build/
